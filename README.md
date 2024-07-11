@@ -9,3 +9,4 @@ In this project we can press TAB and go into observer mode and get a list of all
 ![Иллюстрация к проекту](https://github.com/Kasteas2001/InteractFromSpectator/raw/master/ImageForREADME/222.png)
 ![Иллюстрация к проекту](https://github.com/Kasteas2001/InteractFromSpectator/raw/master/ImageForREADME/333.png)
 ![Иллюстрация к проекту](https://github.com/Kasteas2001/InteractFromSpectator/raw/master/ImageForREADME/4444.png)
+![Иллюстрация к проекту](https://github.com/Kasteas2001/InteractFromSpectator/raw/master/ImageForREADME/8.png)
